@@ -1,0 +1,13 @@
+header{
+	position: relative;
+	width: 100%;
+	background-color: black;
+	color: white;
+	margin-top: -20px;
+}
+
+h2{
+	display: inline-flex;
+	padding-left: 3%;
+	padding-top: 1%
+}
